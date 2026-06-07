@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img src="zoltan-tasi-yanhwFwyoaU-unsplash.jpg" width="500" height="500">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/Xz0gwQUnQpA?si=_OgQl6oP6OB0Fymg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<video src="244754_medium.mp4" width="500" height="500" controls></video>
+<audio src="dragon-studio-meowing-cat-401728 (1).mp3" controls></audio>
+</body>
+</html>
