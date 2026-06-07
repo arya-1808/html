@@ -1,0 +1,109 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h3>Resume</h3>
+    <table border="1" width="100%">
+        <thead>
+            <tr>
+                <th rowspan="4">
+                    <img src="mccarthy-beckan-RGKdWJOUFH0-unsplash.jpg" heigth="60" width="200">
+                    <h3>Name:</h3>
+                    <h3>Arya Dnyaneshwar Shinde</h3>
+
+                    <h3>DOB:</h3>
+                    <h3>8 November 2006</h3>
+
+                    <h3>Email:</h3>
+                    <h3>shindearya0201@gmail.com</h3>
+
+                    <h3>Contact No.:</h3>
+                    <h3>7562389765</h3>
+
+                    <h3>Place:</h3>
+                    <h3>Pune</h3>
+                </th>
+                <th><b>Objective<b></th>
+                <td> To secure a responsible position where I can utilize my <br>technical skills,
+                     gain practical experience, and contribute effectively <br>to the organization's success.</td>
+            </tr>
+            <tr>
+                <!-- <td></td> -->
+                 <th><b>Skills</b></th>
+                 <td>
+                    <ul>
+                        <li>SQL:</li>
+                        <ol>
+                            <li>Good Understanding</li>
+                            <li>Joins</li>
+                            <li>Sql Quries</li>
+                            <li>DDL,DML,TCL</li>
+                        </ol>
+                        <li>Core Java</li>
+                        <ol>
+                           <li>Decision making Statement</li>
+                           <li>Looping statement</li>
+                           <li>Methids</li>
+                        </ol>
+                        <li>Web-Tech</li>
+                        <ol><li>Html</li></ol>
+                        <li>Core Python</li>
+                    </ul>
+                 </td>
+
+            </tr>
+            <tr>
+                <!-- <th></th> -->
+                 <th><b>Project</b></th>
+                 <td>
+                    <ul>
+                        <li>Working pn web design</li>
+                    </ul>
+                 </td>
+            </tr>
+            <tr>
+                <th><b>Academic Details</b></th>
+                <th>
+                    <table border="3">
+                        <thead>
+                            <tr>
+                                <th>Course</th>
+                                <th>Board/University</th>
+                                <th>CGPA</th>
+                                <th>Year</th>
+                            </tr>
+                            <tr>
+                                <th>10th</th>
+                                <th>Maharashtra Board</th>
+                                <th>90.20%</th>
+                                <th>2023-2023</th>
+                            </tr>
+                            <tr>
+                                <th>Diploma 1st year</th>
+                                <th>MSBTE</th>
+                                <th>81.00%</th>
+                                <th>2025</th>
+                            </tr>
+                            <tr>
+                                <th>Diploma 2nd year</th>
+                                <th>MSBTE</th>
+                                <th>90.00%</th>
+                                <th>2026</th>
+                            </tr>
+                        </thead>
+                    </table>
+                </th>
+            </tr>
+
+
+        
+       
+    </thead>
+    </table>
+</body>
+</html>
